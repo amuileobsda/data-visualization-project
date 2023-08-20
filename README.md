@@ -33,7 +33,8 @@ php를 이용해 블로그를 직접 개발하였고 카테고리에 걸려있�
 - JavaScript
 - EJS
 - TailwindCSS
-
+- PM2
+- cron
 
 ## 사용툴
 - FileZilla
