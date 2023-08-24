@@ -10,14 +10,14 @@ php를 이용해 블로그를 직접 개발하였고 node.js와 Chart.js 라이�
 
 
 
-## 리눅스 LAMP서버 구축 및 과정
+## 리눅스 LAMPN서버 구축 및 과정
 1) 서버에 Linux, Apache, Mysql, php, node.js 설치
 2) certbot을 이용한 SSL 인증서 적용
 3) 방화벽 설정
 4) 포트추가
 5) IP주소 필터링
 6) 도메인 및 서브도메인 적용
-
+7) 아파치 웹서버에 node.js서버추가
 
 
 ## 사이트 경로
