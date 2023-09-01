@@ -6,9 +6,9 @@ GA(Google Analytics)를 보면 사용자들이 웹사이트에 들어온 순간�
 
 저는 이런 생각을 모방하여 블로그의 데이터를 활용해 모니터링 대시보드를 만들게 되었습니다.
 
-html, tailwindcss, javascript, php, mysql를 이용해 `https://blog.ebosda.com` 블로그를 개발하였고 
+html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였고 
 
-node.js와 Chart.js 라이브러리를 이용해 모니터링 대시보드를 만들었습니다.
+해당 블로그에서 수집된 데이터로 node.js와 Chart.js 라이브러리를 이용해 모니터링 대시보드를 개발하였습니다.
 
 
 
