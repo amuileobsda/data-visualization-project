@@ -10,6 +10,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 해당 블로그에서 수집된 데이터로 node.js와 Chart.js 라이브러리를 이용해 모니터링 대시보드를 개발하였습니다.
 
+블로그의 UI는 Microsoft Edge와 Tistory 사이트를 참고하였습니다.
 
 
 ## 리눅스 LAMPN서버 구축 및 과정
