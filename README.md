@@ -38,12 +38,13 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 - Express
 - PHP
 - Linux
+- Mysql
 - JavaScript
 - EJS
 - TailwindCSS
 - PM2
 - cron
-- Mysql
+
 
 
 ## 사용툴
