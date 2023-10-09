@@ -36,6 +36,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 
 ## 아키텍처
+![아키텍쳐 수정_1](https://github.com/amuileobsda/data-visualization-project/assets/30142355/0e7d7c5a-f59e-4095-a0b3-ab90ebd2c067)
 
 
 ## 리눅스 LAMPN서버 구축 및 과정
@@ -59,16 +60,16 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 
 ## 기술 스택
-### FRONT-END
+#### Frontend
 - JavaScript, EJS, TailwindCSS, React.js, Typescript
 
-### BACK-END
+#### Backend
 - Node.js, Express, PHP, Typescript
 
-### DB
+#### DB
 - MySQL
   
-### ENGINEER
+#### Engineer
 - Linux, Apache, CentOS, PM2, cron
 
 
