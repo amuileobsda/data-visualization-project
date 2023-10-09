@@ -1,4 +1,14 @@
 # data-visualization-project
+## 목차 | Contents
+1️⃣ [기획의도](#-기획의도--project-period) <br/>
+2️⃣ [프로젝트 소개](#-프로젝트-소개--project-introduce) <br/>
+3️⃣ [아키텍처](#-아키텍처--architecture) <br/>
+4️⃣ [리눅스 LAMPN서버 구축 및 과정](#-리눅스-LAMPN서버-구축-및-과정) <br/>
+5️⃣ [사이트 경로](#-사이트-경로) <br/>
+6️⃣ [기술 스택](#-기술-스택--technology-stack) <br/>
+7️⃣ [프로젝트 방향성](#-프로젝트-방향성) <br/>
+
+
 ## 기획의도
 개발자가 1~3명인 중소기업이나 스타트업 같은 경우에는 자체 블로그가 아닌 `워드프레스`, `네이버 블로그` 등의 플랫폼을 통해 기술 블로그를 쓰는 경우가 종종 있습니다.
 
@@ -9,6 +19,7 @@
 따라서 회사 내에서 직접 커스텀할수있게 서버구축부터 소스까지 전부 제공해 주자고 생각을 바꾸게 되었습니다.
 
 생각 있으시면 연락해주세요 :)
+
 
 ## 프로젝트 소개
 GA(Google Analytics)를 보면 사용자들이 웹사이트에 들어온 순간부터 모든 데이터를 활용하여 마케팅 도구로써 활용하고 있습니다. 
@@ -24,6 +35,9 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 블로그의 UI는 `Microsoft Edge`와 `Tistory` 사이트를 참고하였습니다.
 
 
+## 아키텍처 | Architecture
+
+
 ## 리눅스 LAMPN서버 구축 및 과정
 1) 서버에 Linux, Apache, Mysql, php, node.js 설치
 2) certbot을 이용한 SSL 인증서 적용
@@ -31,38 +45,61 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 4) 포트추가
 5) IP주소 필터링
 6) 도메인 및 서브도메인 적용
-7) 아파치 웹서버에 node.js서버추가
+7) 아파치 웹서버에 node서버추가
 
 
 ## 사이트 경로
-|                                          |                               |
-| ---------------------------------------- | ----------------------------- |
-| 블로그 사이트 경로                         | https://blog.ebosda.com      |
-| 블로그 모니터링 대시보드 경로               | http://blog.ebosda.com:4000  |
-| 아이디                                    | test                         |
-| 패스워드                                  | test                         |
+|                                          |                               |  기술 스택                    |
+| ---------------------------------------- | ----------------------------- | ----------------------------- |
+| 블로그 사이트 경로                         | https://blog.ebosda.com        | php, javascript              |
+| 블로그 모니터링 대시보드 경로               | http://blog.ebosda.com:4000    | express, ejs                 |
+| 아이디                                    | test                           |                              |
+| 패스워드                                  | test                           |                              |
+| 리뉴얼한 블로그 사이트 경로                | https://next-ts.ebosda.com      | react, typescript, express   |
 
 
-
-## 사용기술
-- Node.js
-- Express
-- PHP
-- Linux
-- Mysql
+## 기술 스택 | Technology Stack
+### FRONT-END
 - JavaScript
 - EJS
 - TailwindCSS
+- React.js
+- Typescript
+
+### BACK-END
+- Node.js
+- Express
+- PHP
+- Typescript
+
+### DB
+- MySQL
+  
+### ENGINEER
+- Linux
+- Apache
+- CentOS
 - PM2
 - cron
 
 
-
-## 사용툴
-- FileZilla
-- Xshell
-- VScode
-- Git
+## 프로젝트 방향성
+<table>
+  <tbody>
+    <tr>
+      <td>AWS를 사용안한 이유</td>
+      <td>  </td>
+    </tr>
+    <tr>
+      <td>B2C로 전향?</td>
+      <td>  </td>
+    </tr>
+    <tr>
+      <td>어떻게 수익모델을 만들것인가</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 
