@@ -1,12 +1,12 @@
 # data-visualization-project
 ## 목차 | Contents
-1️⃣ [기획의도](#-기획의도--project-period) <br/>
-2️⃣ [프로젝트 소개](#-프로젝트-소개--project-introduce) <br/>
-3️⃣ [아키텍처](#-아키텍처--architecture) <br/>
+1️⃣ [기획의도](#기획의도) <br/>
+2️⃣ [프로젝트 소개](#프로젝트-소개) <br/>
+3️⃣ [아키텍처](#아키텍처) <br/>
 4️⃣ [리눅스 LAMPN서버 구축 및 과정](#-리눅스-LAMPN서버-구축-및-과정) <br/>
-5️⃣ [사이트 경로](#-사이트-경로) <br/>
-6️⃣ [기술 스택](#-기술-스택--technology-stack) <br/>
-7️⃣ [프로젝트 방향성](#-프로젝트-방향성) <br/>
+5️⃣ [사이트 경로](#사이트-경로) <br/>
+6️⃣ [기술 스택](#기술-스택) <br/>
+7️⃣ [프로젝트 방향성](#프로젝트-방향성) <br/>
 
 
 ## 기획의도
@@ -35,7 +35,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 블로그의 UI는 `Microsoft Edge`와 `Tistory` 사이트를 참고하였습니다.
 
 
-## 아키텍처 | Architecture
+## 아키텍처
 
 
 ## 리눅스 LAMPN서버 구축 및 과정
@@ -49,16 +49,16 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 
 ## 사이트 경로
-|                                          |                               |  기술 스택                    |
-| ---------------------------------------- | ----------------------------- | ----------------------------- |
-| 블로그 사이트 경로                         | https://blog.ebosda.com        | php, javascript              |
-| 블로그 모니터링 대시보드 경로               | http://blog.ebosda.com:4000    | express, ejs                 |
-| 아이디                                    | test                           |                              |
-| 패스워드                                  | test                           |                              |
-| 리뉴얼한 블로그 사이트 경로                | https://next-ts.ebosda.com      | react, typescript, express   |
+|                                          |                               |  기술 스택                                        |
+| ---------------------------------------- | ----------------------------- | ------------------------------------------------- |
+| 블로그 사이트 경로                         | https://blog.ebosda.com        | html, tailwindcss, javascript, php               |
+| 블로그 모니터링 대시보드 경로               | http://blog.ebosda.com:4000    | ejs, tailwindcss, node, express                  |
+| 아이디                                    | test                           |                                                   |
+| 패스워드                                  | test                           |                                                   |
+| 리뉴얼한 블로그 사이트 경로                | https://next-ts.ebosda.com      | react, typescript, node, express                  |
 
 
-## 기술 스택 | Technology Stack
+## 기술 스택
 ### FRONT-END
 - JavaScript
 - EJS
@@ -88,15 +88,15 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
   <tbody>
     <tr>
       <td>AWS를 사용안한 이유</td>
-      <td>  </td>
+      <td>비싸다</td>
     </tr>
     <tr>
       <td>B2C로 전향?</td>
-      <td>  </td>
+      <td>처음 프로젝트 방향을 B2B로 잡았고 시간을 내기가 힘들기 때문에 고민을 해봐야겠다.</td>
     </tr>
     <tr>
       <td>어떻게 수익모델을 만들것인가</td>
-      <td> </td>
+      <td>검색광고, 애드센스 같은 것보다는 서비스나, 솔루션으로 만들어서 팔예정이다.</td>
     </tr>
   </tbody>
 </table>
