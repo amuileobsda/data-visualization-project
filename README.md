@@ -60,27 +60,16 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 ## 기술 스택
 ### FRONT-END
-- JavaScript
-- EJS
-- TailwindCSS
-- React.js
-- Typescript
+- JavaScript, EJS, TailwindCSS, React.js, Typescript
 
 ### BACK-END
-- Node.js
-- Express
-- PHP
-- Typescript
+- Node.js, Express, PHP, Typescript
 
 ### DB
 - MySQL
   
 ### ENGINEER
-- Linux
-- Apache
-- CentOS
-- PM2
-- cron
+- Linux, Apache, CentOS, PM2, cron
 
 
 ## 프로젝트 방향성
@@ -88,15 +77,15 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
   <tbody>
     <tr>
       <td>AWS를 사용안한 이유</td>
-      <td>비싸다</td>
+      <td>비용: AWS는 유연한 서비스와 확장성을 제공하지만, 사용량에 따라 비용이 증가할 수 있습니다.</td>
     </tr>
     <tr>
-      <td>B2C로 전향?</td>
-      <td>처음 프로젝트 방향을 B2B로 잡았고 시간을 내기가 힘들기 때문에 고민을 해봐야겠다.</td>
+      <td>B2C로 전향할건가</td>
+      <td>처음에는 B2B 프로젝트 방향을 선택했지만, 시간을 할애하기 어려워 고민을 해봐야 할 것 같습니다.</td>
     </tr>
     <tr>
-      <td>어떻게 수익모델을 만들것인가</td>
-      <td>검색광고, 애드센스 같은 것보다는 서비스나, 솔루션으로 만들어서 팔예정이다.</td>
+      <td>비즈니스 모델과 수익모델</td>
+      <td>제가 개발한 프로젝트는 검색광고나 애드센스와 같은 광고 중심의 모델이 아니라, 주로 서비스나 솔루션을 제공하여 수익을 창출하는 방향으로 진행될 예정입니다.</td>
     </tr>
   </tbody>
 </table>
