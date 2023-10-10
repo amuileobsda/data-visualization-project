@@ -36,8 +36,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 
 ## 아키텍처
-<img width="800" alt="아키텍쳐_" src="https://github.com/amuileobsda/data-visualization-project/assets/30142355/ed90e49e-5a77-4a75-9391-54542347c397">
-
+<img width="800" alt="아키텍쳐_초기" src="https://github.com/amuileobsda/data-visualization-project/assets/30142355/c88a243e-f154-4313-baff-c311052e9d35">
 
 ## 리눅스 LAMPN서버 구축 및 과정
 1) 서버에 Linux, Apache, Mysql, php, node.js 설치
