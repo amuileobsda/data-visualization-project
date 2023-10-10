@@ -77,7 +77,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
   <tbody>
     <tr>
       <td>AWS를 사용안한 이유</td>
-      <td>비용: AWS는 유연한 서비스와 확장성을 제공하지만, 사용량에 따라 비용이 증가할 수 있습니다.</td>
+      <td>비용 <br/>AWS는 유연한 서비스와 확장성을 제공하지만, 사용량에 따라 비용이 증가할 수 있습니다.</td>
     </tr>
     <tr>
       <td>B2C로 전향할건가</td>
