@@ -68,7 +68,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 #### DB
 - MySQL
   
-#### Engineer
+#### Infrastructure
 - Linux, Apache, CentOS, PM2, cron
 
 
