@@ -49,14 +49,16 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 
 ## 사이트 경로
-|                                          |                               |  기술 스택                                        |
-| ---------------------------------------- | ----------------------------- | ------------------------------------------------- |
-| 블로그 사이트 경로                         | https://blog.ebosda.com        | html, tailwindcss, javascript, php               |
-| 블로그 모니터링 대시보드 경로               | http://blog.ebosda.com:4000    | ejs, tailwindcss, node, express                  |
-| 아이디                                    | test                           |                                                   |
-| 패스워드                                  | test                           |                                                   |
-| 리뉴얼한 블로그 사이트 경로                | https://next-ts.ebosda.com      | react, typescript, node, express                  |
-
+|                                          |                               |  기술 스택                                        | 접근가능    |
+| ---------------------------------------- | ----------------------------- | ------------------------------------------------- | ----------- |
+| 블로그 사이트 경로                         | https://blog.ebosda.com        | html, tailwindcss, javascript, php               | O          |
+| 블로그 모니터링 대시보드 경로               | http://blog.ebosda.com:4000    | ejs, tailwindcss, node, express                  | X          |
+| 아이디                                    | test                           |                                                  |            |
+| 패스워드                                  | test                           |                                                  |            |
+| 리뉴얼한 블로그 사이트 경로                | https://next-ts.ebosda.com      | react, typescript, node, express                 | X          |
+| 채팅사이트                               | https://pyportal.co.kr          | python, flask, ubuntu, nginx                      | O          |
+| 아이디                                    | testuser1                      |                                                  |            |
+| 패스워드                                  | 12345                          |                                                  |            |
 
 ## 기술 스택
 #### Frontend
