@@ -56,7 +56,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 | 아이디                                    | test                           |                                                  |            |
 | 패스워드                                  | test                           |                                                  |            |
 | 리뉴얼한 블로그 사이트 경로                | https://next-ts.ebosda.com      | react, typescript, node, express                 | X          |
-| 채팅사이트                               | https://pyportal.co.kr          | python, flask, ubuntu, nginx                      | O          |
+| 채팅사이트                                | https://www.pyportal.co.kr       | python, flask, socketio, ubuntu, nginx           | O          |
 | 아이디                                    | testuser1                      |                                                  |            |
 | 패스워드                                  | 12345                          |                                                  |            |
 
