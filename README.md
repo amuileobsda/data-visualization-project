@@ -49,7 +49,7 @@ html, tailwindcss, javascript, php, mysql를 이용해 블로그를 개발하였
 
 
 ## 사이트 경로
-|                                          |                               |  기술 스택                                        | 접근        |
+| 설명                                     | 경로                          | 기술 스택                                         | 접근        |
 | ---------------------------------------- | ----------------------------- | ------------------------------------------------- | ----------- |
 | 블로그 사이트 경로                         | https://blog.ebosda.com        | html, tailwindcss, javascript, php               | O          |
 | 블로그 모니터링 대시보드 경로               | http://blog.ebosda.com:4000    | ejs, tailwindcss, node, express                  | X          |
